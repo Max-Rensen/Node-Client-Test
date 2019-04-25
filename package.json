@@ -1,0 +1,7 @@
+{
+  "name": "node_multiplayer_game",
+  "version": "0.0.1",
+  "dependencies": {
+    "ws": "^6.0.0"
+  }
+}
